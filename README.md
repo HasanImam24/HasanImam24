@@ -180,9 +180,3 @@ currently  :
 </div>
 
 ---
-
-<div align="center">
-
-  <sub>⚡ Proudly crafted with ❤️ by <a href="https://github.com/HasanImam24">HasanImam24</a> · Powered by <a href="https://gprm.itsvg.in">GPRM</a></sub>
-
-</div>
