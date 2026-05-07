@@ -69,18 +69,18 @@ currently  :
 
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasanImam24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
+  <!-- GitHub Streak (DemoLab — official, reliable host) -->
+  <img src="https://streak-stats.demolab.com?user=HasanImam24&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="49%" />
 
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanImam24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <!-- Overall Stats (anuraghazra — stable community mirror) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HasanImam24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
 
 </div>
 
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanImam24&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasanImam24&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" width="50%" />
 
 </div>
 
